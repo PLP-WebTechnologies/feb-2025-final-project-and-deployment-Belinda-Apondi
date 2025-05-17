@@ -1,0 +1,86 @@
+body{
+    background-color:#51a898;
+    
+}
+h1, h2, form {
+    text-align: center;
+}
+#mainBody{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 5px;
+   
+    
+}
+p {
+    width: 600px;
+    font-weight: 500;
+    text-align: center;
+    font-style: italic;
+}
+main{
+    border-top: 1px solid rgb(178, 223, 236);
+    border-bottom: 1px solid rgb(178, 223, 236);
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    
+}
+img{
+    width: 150px;
+    margin-top: 130px;
+}
+a {
+    color: rgb(109, 8, 109);
+}
+#inputValue {
+    width: 500px;
+    height: 40px;
+    font-size: 16px;
+    background-color: #fbf2d5;
+    border-style: none;
+    box-shadow: 4px 4px 8px rgba(214, 206, 118, 0.6);
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 2px;
+}
+#button {
+    padding: 15px 30px;
+    border-radius: 40px;
+    border-style: none;
+    background-color:#ecec6d ;
+}
+#thePoem {
+    margin-left: 80px;
+    border-left: 5px solid #af1e1e;
+    padding-left: 5px;
+    background-color: #b36c55;
+    margin-top: 50px;
+    color: #0c3821;
+    width: 450px;
+    line-height: 30px;
+    white-space: pre-line;  
+    height: 180px;
+
+    
+}
+
+header {
+    margin-bottom: 20px;
+}
+#details {
+    margin: 5px 0px ;
+}
+h2{
+    margin-top: 0px;
+  
+}
+h1 {
+    margin-bottom:12px;
+    
+}
+
+footer {
+    font-weight: 600 ;
+    text-align: center;
+}
